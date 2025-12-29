@@ -16,3 +16,10 @@ Swift, SwiftUI, Xcode
 
 ## Author
 Nguyen Dang Quoc Tuan
+## Screenshots
+
+<p float="left">
+  <img src="Screenshots/home.png" width="250" />
+  <img src="Screenshots/add.png" width="250" />
+  <img src="Screenshots/detail.png" width="250" />
+</p>
