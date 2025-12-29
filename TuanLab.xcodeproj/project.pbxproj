@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		EE18A07F2F022A3900742A78 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EE18A07E2F022A3900742A78 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		EE18A0542F0219AC00742A78 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		EE18A0462F0219AA00742A78 /* TuanLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TuanLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE18A0532F0219AC00742A78 /* TuanLabTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TuanLabTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE18A05D2F0219AC00742A78 /* TuanLabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TuanLabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE18A07E2F022A3900742A78 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		EE18A03D2F0219AA00742A78 = {
 			isa = PBXGroup;
 			children = (
+				EE18A07E2F022A3900742A78 /* .gitignore */,
 				EE18A0482F0219AA00742A78 /* TuanLab */,
 				EE18A0562F0219AC00742A78 /* TuanLabTests */,
 				EE18A0602F0219AC00742A78 /* TuanLabUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE18A07F2F022A3900742A78 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
