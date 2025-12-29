@@ -22,4 +22,5 @@ Nguyen Dang Quoc Tuan
   <img src="Screenshots/home.png" width="250" />
   <img src="Screenshots/add.png" width="250" />
   <img src="Screenshots/detail.png" width="250" />
+  <img src="Screenshots/delete.png" width="250" />
 </p>
